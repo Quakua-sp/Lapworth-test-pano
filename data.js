@@ -37,7 +37,26 @@ var APP_DATA = {
         "fov": 1.0044703620608095
       },
       "linkHotspots": [],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": 3.124769549624073,
+          "pitch": 0.08707013738223601,
+          "title": "Precambrian life - Charnia",
+          "text": "Charnia Bottom text"
+        },
+        {
+          "yaw": -1.262363825387638,
+          "pitch": 0.15612590442288266,
+          "title": "Allosaurus 'Roary'",
+          "text": "Allosaurus bottom text"
+        },
+        {
+          "yaw": 2.462642801369813,
+          "pitch": 0.07670500270105762,
+          "title": "Evolution of Life",
+          "text": "EoL bottom text"
+        }
+      ]
     }
   ],
   "name": "Project Title",
@@ -45,6 +64,6 @@ var APP_DATA = {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
     "fullscreenButton": true,
-    "viewControlButtons": true
+    "viewControlButtons": false
   }
 };
