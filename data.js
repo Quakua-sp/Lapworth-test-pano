@@ -41,6 +41,7 @@ var APP_DATA = {
         {
           "yaw": 3.124769549624073,
           "pitch": 0.08707013738223601,
+          "popup": "uob-lapworth-collections-08nov21-2.jpg",
           "title": "Precambrian life - Charnia",
           "text": "Charnia Bottom text"
         },
