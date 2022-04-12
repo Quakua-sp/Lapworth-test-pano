@@ -47,7 +47,7 @@ var APP_DATA = {
         },
         {
           "yaw": 3.124769549624073,
-          "pitch": 0.15612590442288266,
+          "pitch": 0.18612590442288266,
           "title": "Precambrian life - Charnia",
           "text": "This cast of a rock surface from Charnwood Forest near Leicester, has impressions of Charnia masoni.This is a very important fossil discovery because it proved for the first time the existence of Precambrian life. It was found in 1957 by a 15-year-old Roger Mason who first reported it. Another 15 year old,Tina Negus, had actually recognised the 560million-year-old fossil a year earlier, but her schoolteachers dismissed her discovery! Charnia are frond-like organisms attached to the seafloor, but it is not known exactly how they lived.  Various fossils of this age have since been found worldwide and are known as Ediacaran biota."
         },
