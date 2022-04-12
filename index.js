@@ -295,7 +295,7 @@ header.classList.add('noHover');
 var iconWrapper = document.createElement('div');
 iconWrapper.classList.add('info-hotspot-icon-wrapper');
 var icon = document.createElement('img');
-icon.src = 'img/camera.png';
+icon.src = 'img/camera2.png';
 icon.classList.add('info-hotspot-icon');
 iconWrapper.appendChild(icon);
 header.appendChild(iconWrapper);
