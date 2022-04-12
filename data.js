@@ -59,7 +59,7 @@ var APP_DATA = {
         },
                 {
           "yaw": -1.262363825387638,
-          "pitch": 0.25612590442288266,
+          "pitch": 0.05612590442288266,
           "title": "Roary",
           "text": "Roary Image",
           "popup": "lapworth-collections-feb20-12.jpg"
