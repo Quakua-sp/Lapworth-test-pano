@@ -58,6 +58,13 @@ var APP_DATA = {
           "text": "This is Roary, a young Allosaurus which lived 155 million years ago during the Jurassic period.This theropod dinosaur was the apex predator of its environment.Despite being a ferocious hunter, Roary was still susceptible to injury. The most noticeable of these can be seen as a large abnormal bone growth on the right foot. This was likely caused by a break which later became badly infected. With a damaged foot, Roary would no longer have hunted as successfully, possibly explaining why it did not reach adulthood."
         },
                 {
+          "yaw": -1.262363825387638,
+          "pitch": 0.25612590442288266,
+          "title": "Roary",
+          "text": "Roary Image",
+          "popup": "lapworth-collections-feb20-12.jpg"
+        },
+                {
           "yaw": 2.462642801369813,
           "pitch": 0.17670500270105762,
           "title": "Geological Timeline",
